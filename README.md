@@ -33,3 +33,4 @@ Before running the project, ensure you have:
 - Adjustable time limits for preferred difficulty
 - Play globally or focus on specific continents
 - Feedback provided when a correct answer isn't provided
+- Toggle colour between light and dark mode
