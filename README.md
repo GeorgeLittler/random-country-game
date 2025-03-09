@@ -13,8 +13,8 @@ Before running the project, ensure you have:
 
 1. **Clone the Repository** (or download the project files)
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/GeorgeLittler/random-country-game.git
+   cd random-country-game
 
 2. **Open the Project in VS Code**
    - Launch VS Code
