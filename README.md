@@ -16,7 +16,17 @@ Before running the project, ensure you have:
    git clone https://github.com/your-username/your-repository.git
    cd your-repository
 
-2. ** 
+2. **Open the Project in VS Code**
+   - Launch VS Code
+   - Open the project folder
+
+3. **Start the Live Server**
+   - Open the `index.html` file (or your main HTML file).
+   - Right-click and select **"Open with Live Server"**.
+   - *OR* click **Go Live** in the bottom-right corner of VS Code
+
+4. **View the Project**
+   - The project will automatically open in your default web browser
 
 ## Features
 - Fast-paced geography challenge
